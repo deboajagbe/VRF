@@ -1,0 +1,10 @@
+.bundle
+
+node_modules
+yarn-error.log
+yarn.lock
+package-lock.json
+husky.lock
+dist
+.build
+.env
